@@ -252,7 +252,7 @@
 
 .hero-section {
     height: 280px;
-    background-image: url(/Amazon/Images/hero_image.jpg);
+    background-image: url(/amazon/images/hero_image.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
