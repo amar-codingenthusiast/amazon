@@ -24,6 +24,16 @@ The project consists of the following files and directories:
 
 To view the Amazon.com home page clone, simply open the `index.html` file in a web browser.
 
+## Deployment
+
+This Amazon clone is deployed on GitHub Pages, allowing you to explore its features and functionalities.
+
+### Accessing the Deployed Site
+
+You can access the deployed site by following this link: [Amazon Clone](https://amar-codingenthusiast.github.io/amazon)
+
+Feel free to explore the site and experience its features firsthand!
+
 ## License
 
 This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for more information.
