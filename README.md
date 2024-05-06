@@ -12,8 +12,6 @@ The project consists of the following files and directories:
 - `LICENSE`: The license file containing the MIT License text.
 
 ## Features
-
-- **Responsive Design**: The clone is designed to be responsive, ensuring compatibility across different devices and screen sizes.
 - **Navigation**: The header includes navigation links to different sections of the website, such as Today's Deals, Customer Service, Registry, and more.
 - **Search Bar**: A search bar is included in the header for users to search for products on Amazon.
 - **Hero Section**: The hero section provides a brief message and a link to redirect users to the Amazon India website.
